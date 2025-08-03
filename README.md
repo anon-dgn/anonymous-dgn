@@ -17,6 +17,12 @@ To achieve this, we propose a graph-based MIL architecture that models the entir
 
 A contrastive loss is incorporated to enhance representation learning across both intra- and inter-bag instance relations. Experimental results demonstrate that this framework outperforms existing SOTA methods on several MIL benchmarks.
 
+## 🖼️ Framework Overview
+
+<p align="center">
+  <img src="framework.png" alt="framework" width="90%">
+</p>
+
 ---
 
 ## ⚙️ Requirements
