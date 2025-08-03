@@ -1,4 +1,5 @@
-**Submission Code for AAAI 2025 - Paper ID #21587**
+**Submission Code for AAAI 2026 - Paper ID #21587**
+
 # Anonymous Multi-Instance Learning Framework (Under Submission)
 
 This repository contains the **official anonymous implementation** of a novel graph-based Multi-Instance Learning (MIL) framework, currently **under review** at a top-tier AI conference.
