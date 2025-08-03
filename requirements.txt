@@ -1,0 +1,12 @@
+## ⚙️ Requirements
+
+- Python 3.8+
+- CUDA 11.7+
+- PyTorch 1.13.0
+- torch-geometric 2.3.1
+- DGL 1.1.2+cu117
+
+Install with:
+
+```bash
+pip install -r requirements.txt
